@@ -1,0 +1,21 @@
+body {
+	background-image: url(../images/ringBack.jpg);
+	background-size: cover;
+}
+.col {
+	background-image: url(../images/blackBack.png);
+	text-align: center;
+	width: 85%;
+	height: auto;
+	min-height: 300px;
+	font-size:; 
+	color: #f5d248;
+	margin-left: 90px;
+	border: solid #f5d248 2px;
+}
+.navbar {
+	background-image: url(../images/blackBack.png);
+	height: 5%;
+	color: #f5d248;
+	font-size: 35px;
+}
