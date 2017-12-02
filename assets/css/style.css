@@ -19,3 +19,8 @@ body {
 	color: #f5d248;
 	font-size: 35px;
 }
+
+.lotr {
+	max-height: 300px;
+	width: auto;
+}
